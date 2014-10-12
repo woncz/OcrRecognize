@@ -37,3 +37,6 @@ Icon
 
 # classes
 *.class
+
+# config file
+src/java/util/StaticParamConstants.java
